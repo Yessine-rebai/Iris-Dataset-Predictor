@@ -48,4 +48,3 @@ if st.sidebar.button("Predict"):
     # Display the predicted class name
     st.write("## Prediction")
     st.write(class_names[prediction[0]])
-
